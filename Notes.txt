@@ -1,0 +1,8 @@
+sky #008aff
+nevy #0f2656 for prg
+red #f15767
+
+
+extractcss for extracting css class and id's
+
+css home theke align porjonto hw thakbe
